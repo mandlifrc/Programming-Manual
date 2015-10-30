@@ -2,4 +2,4 @@
 
 # Nicolet FEAR Programming Manual
 
-This repository contains the wiki and related content for the Nicolet FEAR programming manual.
+This repository contains the wiki and related content for the [Nicolet FEAR Programming Manual](https://github.com/mandlifear/Programming-Manual/wiki).
