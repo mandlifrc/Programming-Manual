@@ -5,10 +5,10 @@
 ## Software Development
 * Creating a new repo in GitHub
 * Cloning a GitHub repo to development machine
-* [Standard Coding Workflow](docs/standard_programming_workflow.docx)
-	* [Programming checklist](docs/programming_checklist.docx)
-	* [Subsystem design form](docs/subsystem_design_form.docx)
-	* [Command design form](docs/command_design_form.docx)
+* [Standard Coding Workflow](docs/standard_programming_workflow.docx?raw=true)
+	* [Programming checklist](docs/programming_checklist.docx?raw=true)
+	* [Subsystem design form](docs/subsystem_design_form.docx?raw=true)
+	* [Command design form](docs/command_design_form.docx?raw=true)
 * Abbreviated Coding Workflow
 * Using GitHub at competition
 
