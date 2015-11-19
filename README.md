@@ -14,6 +14,7 @@
 
 ## Tools and Configuration
 * [Configuring Kdiff3 for use with Git](docs/configuring_kdiff3.md)
+* [Common Git Commands](docs/common_git_commands.md)
 * Configuring the driver station and controllers
 * Configuring the wireless access point
 
