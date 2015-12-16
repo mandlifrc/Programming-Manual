@@ -1,6 +1,8 @@
-![Logo](http://www.nicoletfear.com/style/images/logo.png)
+![Logo](img/logo.png)
 
 # Programming Manual
+
+* [Build Season Deliverables](docs/build_season_deliverables.md)
 
 ## Software Development
 * Creating a new repo in GitHub
