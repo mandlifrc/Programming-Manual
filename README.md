@@ -2,6 +2,8 @@
 
 # Programming Manual
 
+* [Build Season Deliverables](docs/build_season_deliverables.md)
+
 ## Software Development
 * Creating a new repo in GitHub
 * Cloning a GitHub repo to development machine
