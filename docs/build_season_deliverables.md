@@ -3,6 +3,7 @@
 ## Week 1
 * Programming environments up to date on all development machines
 * Team understands command-based robot concepts
+* Team can load and use the debugger step through 2015 (RecycleRush) code on 2015 robot
 * RecycleRush repo forked and branched in GitHub for week 2 tasks
 
 * Design review content
@@ -19,23 +20,23 @@
 
 * Design review content
   * Detail the work performed in both exercises above
-  * Include any successes and failures
+  * Detail successes and failures
 
 ## Week 3
 * Develop against testbenches or prototypes to assist game mech / drivetrain feasibility
   * Subsystem diagram for testbench / prototype
-  * Diagram for commands
+  * State diagrams of commands
   * Use RobotBuilder to generate testbench code
   * Create separate GitHub repos for each testbench
 
 * Design review content
-  * Detail work performed to determine if prototype concepts are feasible
-  * Include any successes and failures
+  * Detail work performed and conclude on feasiblility
+  * Detail successes and failures
 
 ## Week 4
-* Design of Game Mech Code
-* Design of Drivebase Code
-* Design of Diagnostic Code (everything's awesome)
+* Design (not implementation) of game mech code
+* Design (not implementation) of drivebase code
+* Design (not implementation) of diagnostic code (everything's awesome)
   * Block diagram of overall control system
   * Block diagrams of individual subsystems with completed subsystem design forms
   * State diagrams of commands (or chains of commands) with completed command design forms
@@ -43,16 +44,19 @@
 
 * Design review content
   * Review diagrams generated as part of design
-  * Ensure it meets needs of the entire team
+  * Ensure designs meet needs of associated teams
 
 ## Week 5
-* Implementation and Test of Game Mech Code
-* Implementation and Test of Drivetrain Code
+* Implementation and test of game mech code
+* Implementation and test of drivebase code
   * Programming Checklist(s) completed
-  * Testing completed
+  * Subsystem and integration testing completed
   * Code reviews performed
   * Code released in GitHub
   
 * Design review content
-  * Review implmentation activities performed
+  * Review implmentation and testing activities performed
   * Descibe overall functionality to ensure nothing was missed
+
+## Week 6
+* Continued test and code tweaks.
