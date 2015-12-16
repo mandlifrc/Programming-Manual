@@ -1,4 +1,4 @@
-![Logo](http://www.nicoletfear.com/style/images/logo.png)
+![Logo](img/logo.png)
 
 # Programming Manual
 
